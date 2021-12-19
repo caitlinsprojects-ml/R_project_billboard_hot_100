@@ -1,5 +1,5 @@
-## COGS 137 Final Project
+## Data Science in R Final Project
 
-This repo is for your final project report for COGS 137, which will be submitted as a group.
+This repo is for your final project report for Data Science in R, which will be submitted as a group.
 
-Reminder that you will also *individually* submit a form about how working with your group mates was (link found on Canvas home page). 
+This repo includes the raw data used as a means to exercise the R skills and analyses learned in this course, as well as the R Markdown document (containing the code and comments) and knitted HTML file (both created and run in RStudio).
